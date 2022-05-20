@@ -1,7 +1,7 @@
 # Almaftuchin Cek (https://cek.almaftuchin.com)
 Almaftuchin Cek adalah situs bawahan dari Almaftuchin.com yang berfungsi untuk melacak pesanan dan mengetahui rincian pesanan yang dilakukan pada toko online almaftuchin.com berserta marketplace turunannya.
 
-Pada situs Almaftuchin Cek anda dapat memeriksa rincian sebenarnya pesanan yang dilakukan mulai dari nominal pembelian, tanggal pembelian, pembelian melalui situs manapun
+Pada situs Almaftuchin Cek anda dapat memeriksa rincian sebenarnya atas pesanan yang dilakukan mulai dari nominal pembelian, diskon, cashback, tanggal pembelian, platform atau tempat pembelian dan lain sebagainya secara rinci dan detail.
 
 ## Bagaimana cara mengetahui garansi barang yang kamu beli di situs Almaftuchin.com dan marketplacenya?
 
